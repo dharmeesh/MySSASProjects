@@ -6,13 +6,14 @@
   DTS:CreatorComputerName="DESKTOP-N0KLOVP"
   DTS:CreationDate="12/5/2016 5:03:41 AM"
   DTS:PackageType="5"
-  DTS:VersionBuild="1"
+  DTS:VersionBuild="1
   DTS:VersionGUID="{7CE36818-D305-4229-95DE-A0A5D7EFD08C}"
   DTS:LastModifiedProductVersion="11.0.2100.60"
   DTS:LocaleID="16393"
   DTS:ObjectName="DWH_LoadCurrency"
   DTS:DTSID="{B92C4BCE-9FA8-4C52-8303-3BA9F23A8334}"
   DTS:CreationName="SSIS.Package.3">
+  
   <DTS:Property
     DTS:Name="PackageFormatVersion">6</DTS:Property>
   <DTS:ConnectionManagers>
